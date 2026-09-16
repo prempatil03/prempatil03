@@ -92,7 +92,7 @@
 - 📧 Email: pprem2802@gmail.com
 - 🔗 LinkedIn: [Premanand Patil](https://www.linkedin.com/in/premanand-patil-945b53217/)
 - 🎨 Behance: [Premanand Patil](https://www.behance.net/prempatil4)
-- 📞 Phone: +91 9146911267
+<!-- - 📞 Phone: +91 9146911267  -->
 - 🔗 Portfolio: https://portfolio-dev-bice-nine.vercel.app/
 
 <div align="center">
